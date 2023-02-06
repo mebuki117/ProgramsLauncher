@@ -23,4 +23,4 @@
 - 選択されたプログラム、すべてのプログラムの終了
 
 ## スクリーンショット
-![20230206204255](https://user-images.githubusercontent.com/97399080/216964379-9edbdae4-5c87-4e40-877e-2eb94b8e4e97.png)
+![20230206225125](https://user-images.githubusercontent.com/97399080/216988877-4810a147-427d-495c-a4a7-9c5c99a86f39.png)
