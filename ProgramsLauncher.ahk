@@ -6,11 +6,16 @@
 
 SetWorkingDir, %A_ScriptDir%
 
-global ver := "0.5.0" ; version
-global closeoption := True
+; Settings Sync Check
+global ver := "0.5.1" ; version
+global closeoption
+
+; Main Variable
 global ProgramsList
 global listb
 global LaunchPIDs
+
+
 
 
 ; Version Check
@@ -34,6 +39,7 @@ If (vercheck > thisver) {
 
 ; Utilities Load
 IniRead, launchdelay, settings.ini, Utilities, launchdelay
+IniRead, closeoption, settings.ini, Utilities, closeoption
 
 
 ; Setting SaveData
