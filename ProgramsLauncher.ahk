@@ -6,7 +6,7 @@
 
 SetWorkingDir, %A_ScriptDir%
 
-global ver := "0.4.3" ; version
+global ver := "0.5.0" ; version
 global closeoption := True
 global ProgramsList
 global listb
