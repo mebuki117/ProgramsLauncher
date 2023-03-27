@@ -10,7 +10,7 @@
 - Check　選択されたプログラムが存在するかチェック
 - Launch　選択されたプログラムを起動
 - All Launch　すべてのプログラムを起動
-- All Close　すべてのプログラムの終了
+- All Close　すべてのプログラムを終了
 - Close　ProgramsLauncherを終了
 
 #### All Close
