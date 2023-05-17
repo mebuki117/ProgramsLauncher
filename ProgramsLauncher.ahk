@@ -7,7 +7,7 @@
 SetWorkingDir, %A_ScriptDir%
 
 ; Settings Sync Check
-global ver := "0.5.1" ; version
+global ver := "0.5.1.1" ; version
 global closeoption
 
 ; Main Variable
@@ -43,7 +43,7 @@ IniRead, closeoption, settings.ini, Utilities, closeoption
 
 
 ; Setting SaveData
-versionsettings = `n[versioncheck]`nversion="%ver%"
+versionsettings = `n[versioncheck]`nversion="%vercheck%"
 utilitiessettings = `n[Utilities]`nlaunchdelay="%launchdelay%"`ncloseoption="%closeoption%"
 
 
